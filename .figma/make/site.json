@@ -1,0 +1,10 @@
+{
+  "description": "A mobile-first civic app for Maharashtra village residents to explore local information and report, track, and manage community issues through a clear demo workflow.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
